@@ -1,0 +1,85 @@
+.mainContainer{
+    background-image: url("../images/house1.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    opacity: 0.75;
+    height: 100vh;
+    padding-top: 45px;
+    
+
+}
+
+
+
+/* .heading{
+    text-align: left;
+    margin-bottom:30px;
+    font-size:30px;
+    font-weight: 700;
+    padding-left: 288px;
+    padding-top: 10px;
+} */
+
+
+
+.form
+{
+    margin-left:186px;
+    width:max-content;
+    background-color:white;
+    padding: 15px;
+    box-shadow: 0px 0px 12px 0px;
+    margin-bottom: 20px;
+    
+    
+}
+
+
+.form:hover{
+    cursor: pointer;
+}
+
+
+.label{
+    font-size:15px;
+    display: inline-block;
+    width:200px;
+    text-align: justify;
+    font-weight:600;
+
+}
+
+.input{
+    border: 1px solid ;
+    padding:2px;
+    border-radius: 5px;
+  
+}
+
+
+.input:hover{
+    border:2px solid ;
+}
+
+.label:hover{
+    font-weight: bold;
+}
+
+
+.button{
+    background-color: #a881af;
+    padding: 7px;
+    border-radius: 10px;
+    font-size: small;
+    margin-left: 150px;
+    width: 100px;
+    font-weight: 600;
+    font-size:small;
+    margin-top:5px;
+}
+
+.button:hover{
+    background-color: #80669d;
+    color: aliceblue;
+}
+

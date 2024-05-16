@@ -1,0 +1,37 @@
+.back{
+
+    background-image: url("../images/bk.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:90vh;
+    width:100vw;
+    opacity:0.9;
+    
+}
+
+.back-heading{
+    padding-top: 66px;
+    
+    color: #1E3957;
+    font-weight: bold;
+    font-size: 66px;
+   
+}
+.back-heading1{
+    padding-top: 10px;
+    color: #1E3957;
+    font-weight: bold;
+    font-size: 66px;
+   
+}
+
+.entire{
+    background-color:#ECF1F6 ;
+}
+
+.quote{
+    font-size: 21PX;
+    margin-left: 45px;
+    color: #1E3957;
+    
+}

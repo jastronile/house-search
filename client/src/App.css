@@ -1,0 +1,17 @@
+.input{
+  text-align: center;
+  margin: 10px;
+  
+}
+
+.heading{
+  text-align: center;
+}
+
+.searchBox{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px
+
+}
+
